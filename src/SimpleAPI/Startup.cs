@@ -38,6 +38,7 @@ namespace SimpleAPI
 
             // app.UseHttpsRedirection();
 
+            // Routing
             app.UseRouting();
 
             app.UseAuthorization();
